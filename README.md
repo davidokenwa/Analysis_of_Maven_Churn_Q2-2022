@@ -85,7 +85,7 @@ was clean but checking for these gave me confidence in the dataset I needed to p
 
 | ![cleaned data](https://github.com/davidokenwa/Analysis_of_Maven_Churn_Q2-2022/blob/main/clean%20data%20snippet.png) | 
 |:--------------------------------------------------------------------------------------------------------------------:| 
-|                                    **Cleaned Data.** _The data was already clean_                                    |
+|                                    **Cleaned Data.**                                    |
 
 
 
