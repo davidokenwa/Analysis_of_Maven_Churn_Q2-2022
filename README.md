@@ -189,7 +189,7 @@ increase the loyalty of customers. Our most loyal customers have referred us
 
 Thank you for reading up to this point! Here are some relevant links:
 
-* [Medium article](https://davidokenwa.medium.com/thoughts-behind-beautiful-dashboards-9fb8b24d9f6d)
+* [Medium article](https://davidokenwa.medium.com/data-driven-decision-making-maven-telecom-churn-minimization-strategy-805aaf465355)
 * [LinkedIn Post](https://www.linkedin.com/posts/david-okenwa_david-okenwa-onyx-nobel-prize-data-challenge-activity-6936211331779805184-7q0O?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * [Dataset](https://www.mavenanalytics.io/data-playground)
 * [DataCamp data cleaning checklist](https://www.linkedin.com/posts/datacampinc_data-cleaning-checklist-activity-6948658073720774656-z-34?utm_source=linkedin_share&utm_medium=member_desktop_web)
